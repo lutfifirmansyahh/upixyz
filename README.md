@@ -6,7 +6,7 @@ _**This bot can mention members upto 10,000 in groups and can mention members up
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioProjectX/Mentionbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/upixyz)
 
 ### 🎯 Credits and Other
 - [Upi](https://github.com/RioProjectX) for this Project ;)
