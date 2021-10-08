@@ -28,7 +28,7 @@ async def help(event):
   helptext = "**Help Menu of Hashish Mention Bot**\n\nCommand: /mentionall\n__You can use this command with text what you want to mention others.__\n`Example: /mentionall Good Morning!`\n__You can you this command as a reply to any message. Bot will tag users to that replied messsage__.\n\nFollow [Upi](https://github.com/lutfifirmansyahh) on Github"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('📣 Channel', 'https://t.me/upiirobitt'),
+                      [Button.url('📣 Channel', 'https://t.me/upiirobott'),
                       Button.url('📦 Group', 'https://t.me/RioGroupSupport')]
                     ),
                     link_preview=False
